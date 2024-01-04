@@ -10,8 +10,3 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 julia = "1.9"
 ForwardDiff = "0.10"
 
-[extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test"]

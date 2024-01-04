@@ -1,4 +1,5 @@
 using DifferentiablePiecewiseFunctions
+using ForwardDiff
 using Test
 
 @testset "DifferentiablePiecewiseFunctions.jl" begin
